@@ -8,7 +8,6 @@ Danger Noodle is a Pygame Zero snake-style arcade game with three difficulty mod
 - `images/` - sprite assets used by the game.
 - `music/` - background music assets.
 - `sounds/` - sound effect assets.
-- `CY300_Project_Signed_Cover_Sheet.pdf` - course submission cover sheet.
 
 ## Game Overview
 Danger Noodle is a snake-like game where the player controls a moving snake with the arrow keys.
